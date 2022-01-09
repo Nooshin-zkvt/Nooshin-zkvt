@@ -5,7 +5,7 @@ using (Html.BeginForm("Login", "User"))@
 >/ "meta name="viewport" content="width=device-width<
 >/ "link href="~/Content/bootstrap.css" rel="stylesheet<
 >/ "link href="~/Content/Site.css" rel="stylesheet<
- >title>ورود به >/title>
+ >title>وارد شدن به >/title>
 >head/< 
 >body<
 >"div class="container-fluid h-100<
